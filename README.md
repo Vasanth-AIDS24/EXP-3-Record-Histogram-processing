@@ -69,8 +69,8 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 
 
 ## Developed By:
-**Name:** SHAABIN R S
-**Register No:** 212224230259
+**Name:** Vasanth P
+**Register No:** 212224230295
 
 ## Program:
 ```python
@@ -115,34 +115,35 @@ plt.subplot(224); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 ##  Output:
 
 ### ORIGINAL IMAGE:
-<img width="487" height="552" alt="image" src="https://github.com/user-attachments/assets/c9ff97ca-63f8-41db-8a76-21b15d1aafe0" />
 
+<img width="452" height="530" alt="image" src="https://github.com/user-attachments/assets/fca0fb73-3197-4a4b-870c-11d38527e5c3" />
 
-<img width="770" height="563" alt="image" src="https://github.com/user-attachments/assets/a087df4d-b9f7-4849-adbe-316482772373" />
+<img width="810" height="537" alt="image" src="https://github.com/user-attachments/assets/79164b05-17ef-4453-a9cd-572508357eb6" />
 
 
 
 ### Equalised Histogram:
 
-<img width="722" height="555" alt="image" src="https://github.com/user-attachments/assets/ce226975-fcab-4de9-8716-856e5f478363" />
+<img width="780" height="535" alt="image" src="https://github.com/user-attachments/assets/a0f673bf-74fa-4233-9452-8b69a09053bd" />
 
 
-<img width="502" height="541" alt="image" src="https://github.com/user-attachments/assets/06177f50-8192-4b85-9dae-a5b152d9b84b" />
+<img width="590" height="525" alt="image" src="https://github.com/user-attachments/assets/bd620cda-6d1e-4830-ab00-1b203f62a6a5" />
 
 
 ### Histogram of Grayscale Image and any channel of Color Image:
-<img width="512" height="552" alt="image" src="https://github.com/user-attachments/assets/686aab77-cfc7-43aa-90ef-f100edcb589a" />
 
-<img width="771" height="552" alt="image" src="https://github.com/user-attachments/assets/1a7b741f-463d-41cf-859f-7020abb39342" />
+<img width="532" height="522" alt="image" src="https://github.com/user-attachments/assets/712abb4d-6ecd-47db-a42c-7721f4e234e8" />
+
+<img width="847" height="517" alt="image" src="https://github.com/user-attachments/assets/ce2eaa7c-20c3-42c6-b64e-f3991f0f7b59" />
+
 
 ### Histogram Equalization of Grayscale Image:
-<img width="436" height="480" alt="image" src="https://github.com/user-attachments/assets/d0a953fa-c75e-440a-a3b0-3dde8a7d794a" />
 
-<img width="427" height="471" alt="image" src="https://github.com/user-attachments/assets/82d0ce16-623e-4189-ad9e-be394c4e0a5c" />
+<img width="928" height="325" alt="image" src="https://github.com/user-attachments/assets/a3dd2930-cf42-463c-98fe-98ae3fb97fa6" />
 
-<img width="691" height="421" alt="image" src="https://github.com/user-attachments/assets/17125739-993d-4911-b0a7-b61d12fcf2dd" />
 
-<img width="697" height="435" alt="image" src="https://github.com/user-attachments/assets/f50f6b8f-46d4-4cab-98f8-94b0481189c8" />
+<img width="962" height="265" alt="image" src="https://github.com/user-attachments/assets/af0a4412-8eab-4fa9-9992-f8a03fdd91ad" />
+
 
 ## Result:
 
